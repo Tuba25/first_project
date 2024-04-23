@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "700322121748",
+    "firebase_url": "https://foodbracapp-default-rtdb.firebaseio.com",
+    "project_id": "foodbracapp",
+    "storage_bucket": "foodbracapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700322121748:android:c762347b49813171c7bf01",
+        "android_client_info": {
+          "package_name": "com.example.first_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmqUYr_zIKCeOzUHYgRQUEHpAFGCnE1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
